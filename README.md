@@ -1,7 +1,7 @@
-# codewars-katas / hackerrank
+# Codewars / HackerRank / LeetCode
 This repo contains my code challenge solutions for Codewars (python), LeetCode (python and SQL), and hackerrank (SQL).
 
-Kyu = Difficulty ranges from beginner (kyu8) to most difficult (kyu1)
+*Kyu = Difficulty ranges from beginner (kyu8) to most difficult (kyu1)
 
 It's great to polish coding skills every day.
 
