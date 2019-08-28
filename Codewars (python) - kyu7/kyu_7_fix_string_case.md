@@ -31,4 +31,8 @@ def solve(s):
 
 ## My Notes
 Initially I did not want to go the route of creating and upper and lower count variable. I wanted to try using a len(s.upper()) which I wanted to give me the number of uppercases that were in the string. However I think that would only give me the length of the string. I went online to see if I could find another way but ultimately resorted back to the lower and upper count.
+<<<<<<< HEAD
 ele == ele.upper() was a good way to see if it was an uppercase letter.
+=======
+ele == ele.upper() was a good way to see if it was an uppercase letter. 
+>>>>>>> fa12e585c26cb03ca35052ce98004ae17ed8732c
