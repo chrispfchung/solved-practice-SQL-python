@@ -5,7 +5,7 @@ This repo contains my code challenge solutions for Codewars (python), LeetCode (
 
 It's great to polish coding skills every day.
 
-My Contact Info - I'm currently Open to employment opportunities.
+My Contact Info - I'm currently open to employment opportunities.
 
-https://www.linkedin.com/in/chrischung28/<br>
-https://chrispfchung.github.io/ - portfolio
+https://www.linkedin.com/in/chrispfchung/<br>
+
